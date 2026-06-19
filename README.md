@@ -107,7 +107,7 @@ skills/
     syncfusion-maui-toolkit-theming/
     syncfusion-maui-toolkit-accordion/
     syncfusion-maui-toolkit-shimmer/
-    ... (one folder per control, 32 total)
+    ... (one folder per control, 35 total)
 ```
 
 ## Skill Index
