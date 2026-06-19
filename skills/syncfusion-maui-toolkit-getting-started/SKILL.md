@@ -8,6 +8,28 @@ metadata:
 
 # Syncfusion® .NET MAUI Toolkit Introduction
 
+## When to Use This Skill
+
+Use this skill when the user asks about:
+
+- Getting started with Syncfusion® .NET MAUI Toolkit
+- Installing Syncfusion MAUI NuGet packages
+- Setting up a .NET MAUI development environment
+- Understanding platform support (Android, iOS, macOS, Windows)
+- Learning about Syncfusion MAUI components or ecosystem
+- Creating or configuring a MAUI project with Syncfusion controls
+
+## Component Overview
+
+The Syncfusion® .NET MAUI Toolkit is provided as a single unified NuGet package that offers a comprehensive collection of 20+ professional UI components for cross-platform application development.
+
+- **NuGet Package:** `Syncfusion.Maui.Toolkit`
+- **Namespace:** `Syncfusion.Maui.Toolkit`
+- **Key Components:** 35+ controls including data visualization (charts), calendars, editors, buttons, navigation, and more
+- **Supported Platforms:** Android (API 21+), iOS (12.2+), macOS (12+), Windows (10/11)
+- **.NET Support:** .NET 9.0, .NET 10.0
+- **Development Tools:** Visual Studio 2022, Visual Studio Code
+
 Syncfusion® .NET MAUI Toolkit provides a comprehensive collection of professional UI components for building modern, cross-platform mobile and desktop applications. This skill guides you through getting started with Syncfusion® .NET MAUI Toolkit, from installation and setup to understanding the platform capabilities and component ecosystem.
 
 ## What is Syncfusion® .NET MAUI Toolkit?
@@ -34,78 +56,52 @@ Syncfusion® .NET MAUI is a suite of 20+ professional, high-performance UI compo
 
 ## Documentation and Navigation Guide
 
-### Getting Started & Installation
-📄 **Read:** [references/getting-started-installation.md](references/getting-started-installation.md)
+### Introduction, Platforms, Requirements & Setup
+📄 **Read:** [references/introduction-overview.md](references/introduction-overview.md)
 
-Start here to understand what Syncfusion® .NET MAUI Toolkit includes, view the complete component ecosystem, and follow step-by-step installation instructions via NuGet Package Manager or Package Manager Console.
+Start here to understand Syncfusion® .NET MAUI Toolkit, supported platforms, system requirements, framework compatibility, development environment setup, cross-platform development patterns, and the complete 20+ component ecosystem.
 
 **Topics covered:**
 - What is Syncfusion® .NET MAUI Toolkit and why choose it
-- 20+ component categories (Data Visualization, Buttons, Layout, Editors, Calendars, Notification, etc.)
-- Installation via NuGet Package Manager
-- Theme configuration and setup
+- Supported platforms (Android, iOS, macOS, Windows) and version matrix
+- System and hardware requirements
+- Framework compatibility (.NET 9.0, .NET 10.0)
+- Development environment setup and tools
+- Cross-platform development architecture and code sharing patterns
+- 20+ component categories and ecosystem overview
 
-### Platform Support & System Requirements
-📄 **Read:** [references/platforms-requirements.md](references/platforms-requirements.md)
+### Installation: NuGet Package Manager UI
+📄 **Read:** [references/nuget-package-manager-ui.md](references/nuget-package-manager-ui.md)
 
-Verify platform support and system requirements for your target deployment. Learn minimum and recommended specifications for Android, iOS, macOS, and Windows development.
-
-**Topics covered:**
-- Supported platforms and version matrix
-- Platform-specific capabilities and constraints
-- Hardware requirements (minimum and recommended)
-- Operating system requirements for development
-- Development tools and SDKs needed
-
-### Framework Compatibility & .NET Versions
-📄 **Read:** [references/framework-compatibility.md](references/framework-compatibility.md)
-
-Understand .NET version compatibility with Syncfusion® .NET MAUI Toolkit. Learn which .NET versions are supported and best practices for version selection.
+Install Syncfusion® Toolkit using the graphical NuGet Package Manager in Visual Studio. This is the most beginner-friendly installation method.
 
 **Topics covered:**
-- Supported .NET versions (.NET 9.0, .NET 10.0)
-- Version compatibility matrix
-- LTS (Long-Term Support) recommendations
-- Performance and stability considerations
+- Opening Manage NuGet Packages in Visual Studio
+- Configuring package sources
+- Searching and installing Syncfusion.Maui.Toolkit
+- Verification and troubleshooting
 
-### Development Environment Setup
-📄 **Read:** [references/development-environment-setup.md](references/development-environment-setup.md)
+### Installation: .NET CLI
+📄 **Read:** [references/dotnet-cli-installation.md](references/dotnet-cli-installation.md)
 
-Configure your development environment for Windows, macOS, or Visual Studio Code. This comprehensive guide covers installation, configuration, and verification for all major development tools.
-
-**Topics covered:**
-- Visual Studio 2022 setup (Windows)
-- Visual Studio Code setup
-- .NET SDK installation and verification
-- Android SDK and iOS/Xcode configuration
-- Troubleshooting common setup issues
-
-### Cross-Platform Development Basics
-📄 **Read:** [references/cross-platform-development.md](references/cross-platform-development.md)
-
-Learn the architecture and patterns for building cross-platform applications. Understand code sharing strategies, platform-specific code, resource management, and adaptive layouts.
+Install Syncfusion® Toolkit via the .NET Command Line Interface. Ideal for automation, CI/CD pipelines, and command-line workflows.
 
 **Topics covered:**
-- Single codebase architecture
-- Code reusability patterns (90%+ sharing)
-- Platform-specific code when needed
-- Unified resource system (images, fonts, assets)
-- Adaptive layouts and responsive design
-- Theme adaptation across platforms
+- Using `dotnet add package` command
+- Specifying package versions
+- Command-line installation verification
+- Error handling and troubleshooting
 
-### Component Ecosystem Overview
-📄 **Read:** [references/component-ecosystem.md](references/component-ecosystem.md)
+### Installation: Package Manager Console
+📄 **Read:** [references/package-manager-console.md](references/package-manager-console.md)
 
-Explore the 20+ components available in Syncfusion® .NET MAUI Toolkit. Understand component categories, their purposes, and how to choose the right component for your needs.
+Install Syncfusion® Toolkit using PowerShell-based Package Manager Console in Visual Studio. Ideal for advanced control and multi-project solutions.
 
 **Topics covered:**
-- Data visualization (Charts)
-- Calendars
-- Editors 
-- Navigation components
-- Button
-- Layout components
-- Component selection guide
+- Accessing Package Manager Console
+- Using `Install-Package` command
+- Version specification and advanced options
+- Multi-project setup and troubleshooting
 
 ## Quick Start Checklist
 

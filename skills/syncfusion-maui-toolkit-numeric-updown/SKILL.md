@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-numeric-updown
-description: Implement the Syncfusion .NET MAUI NumericUpDown control for numeric input with validation, formatting, and increment/decrement buttons. Use this skill when building forms requiring numeric entry with up-down buttons, currency formatting, percentage values, decimal precision, custom formats, input validation, or placeholder text.
+description: Implement the Syncfusion® .NET MAUI NumericUpDown control for numeric input with validation, formatting, and increment/decrement buttons. Use this skill when building forms requiring numeric entry with up-down buttons, currency formatting, percentage values, decimal precision, custom formats, input validation, or placeholder text.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

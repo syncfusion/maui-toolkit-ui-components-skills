@@ -1,16 +1,12 @@
 ---
 name: syncfusion-maui-toolkit-bottom-sheet
-description: Implement the Syncfusion .NET MAUI Bottom Sheet (SfBottomSheet) control with state management, content configuration, gesture support, and customization. Covers setup, content binding, state transitions, styling, events, and interactive patterns for sliding content panels.
+description: Implement the Syncfusion® .NET MAUI Bottom Sheet (SfBottomSheet) control with state management, content configuration, gesture support, and customization. Covers setup, content binding, state transitions, styling, events, and interactive patterns for sliding content panels.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"
 ---
 
 # .NET MAUI Bottom Sheet (SfBottomSheet)
-
-## Overview
-
-The Bottom Sheet is a user interface component that slides up from the bottom of the screen, allowing users to interact with additional information or actions without navigating away from the main screen. The Syncfusion `SfBottomSheet` control provides comprehensive state management, content configuration, gesture support, and extensive customization options for .NET MAUI applications.
 
 **Key Features:**
 - Multiple states: FullExpanded, HalfExpanded, Collapsed, Hidden
@@ -37,6 +33,10 @@ Use this skill when you need to:
 - **Manage focus and overlay behavior** in mobile-first applications
 
 ---
+
+## Component Overview
+
+The Bottom Sheet is a user interface component that slides up from the bottom of the screen, allowing users to interact with additional information or actions without navigating away from the main screen. The Syncfusion `SfBottomSheet` control provides comprehensive state management, content configuration, gesture support, and extensive customization options for .NET MAUI applications.
 
 ## Documentation and Navigation Guide
 

@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-button
-description: Implements and customize Syncfusion .NET MAUI Button (SfButton) control. Use when working with MAUI buttons, SfButton implementation, button customization, or visual states. Covers button icons, background images, RTL support, custom button views, button styling, events, and checkable buttons.
+description: Implements and customizes Syncfusion® .NET MAUI Button (SfButton) control. Use when working with MAUI buttons, SfButton implementation, button customization, or visual states. Covers button icons, background images, RTL support, custom button views, button styling, events, and checkable buttons.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

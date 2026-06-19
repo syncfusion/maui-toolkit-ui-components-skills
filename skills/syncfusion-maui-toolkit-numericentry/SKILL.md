@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-numericentry
-description: Implement numeric input with Syncfusion .NET MAUI NumericEntry (SfNumericEntry). Supports currency, percentage, and decimal formatting with validation, min/max restrictions, placeholder text, custom styling, and culture-specific formats. Includes value change modes, events, and accessibility features for professional numeric data entry.
+description: Implement numeric input with Syncfusion® .NET MAUI NumericEntry (SfNumericEntry). Supports currency, percentage, and decimal formatting with validation, min/max restrictions, placeholder text, custom styling, and culture-specific formats. Includes value change modes, events, and accessibility features for professional numeric data entry.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

@@ -1,12 +1,12 @@
 ---
 name: syncfusion-maui-toolkit-theming
-description: Themes and styles Syncfusion .NET MAUI components. Use when working with SyncfusionThemeResourceDictionary, MaterialLight, MaterialDark, visual themes, or theme switching. This skill covers theme customization, color overrides, theme keys, dark mode, light mode, and branding.
+description: Themes and styles Syncfusion® .NET MAUI components. Use when working with SyncfusionThemeResourceDictionary, MaterialLight, MaterialDark, visual themes, or theme switching. This skill covers theme customization, color overrides, theme keys, dark mode, light mode, and branding.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"
 ---
 
-# Theming in Syncfusion .NET MAUI
+# Theming in Syncfusion® .NET MAUI
 
 Complete guide for applying, customizing, and creating themes across all Syncfusion .NET MAUI components.
 

@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-effects-view
-description: Implements Syncfusion .NET MAUI Effects View (SfEffectsView) for modern touch interactions and visual feedback. Use when implementing ripple effects, touch feedback animations, selection indicators, scaling animations, or highlight overlays for buttons, cards, lists, or images. Covers touch effects, ripple animations, selection states, and interactive visual feedback.
+description: Implements Syncfusion® .NET MAUI Effects View (SfEffectsView) for modern touch interactions and visual feedback. Use when implementing ripple effects, touch feedback animations, selection indicators, scaling animations, or highlight overlays for buttons, cards, lists, or images. Covers touch effects, ripple animations, selection states, and interactive visual feedback.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

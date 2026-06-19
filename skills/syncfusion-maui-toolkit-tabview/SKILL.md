@@ -1,16 +1,12 @@
 ---
 name: syncfusion-maui-toolkit-tabview
-description: Implement tabbed navigation with Syncfusion MAUI TabView. Covers tab setup, customization, selection events, nested tabs, swiping gestures, and visual state management.
+description: Implements and customizes tabbed navigation with Syncfusion® .NET MAUI TabView. Covers tab setup, customization, selection events, nested tabs, swiping gestures, and visual state management.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"
 ---
 
-# Syncfusion MAUI TabView Implementation Guide
-
-## Component Overview
-
-The **SfTabView** is Syncfusion's advanced tabbed navigation component for .NET MAUI applications. It provides a simple and intuitive interface for tab navigation in both mobile and desktop applications, allowing users to explore and switch between different tabs efficiently.
+# Syncfusion® .NET MAUI TabView Implementation Guide
 
 ### Key Capabilities
 
@@ -28,17 +24,21 @@ The **SfTabView** is Syncfusion's advanced tabbed navigation component for .NET 
 
 Use this skill when:
 
-✅ **User wants to create tabbed interfaces** - Implementing multi-section layouts where only one tab is visible at a time
-✅ **User needs tab customization** - Styling tabs with images, icons, text colors, fonts, and custom header content
-✅ **User implements selection and navigation** - Handling tab selection events, programmatic tab switching, and event-driven workflows
-✅ **User implements gestures** - Adding swipe gestures to switch between tabs on mobile devices
-✅ **User needs nested tabs** - Creating hierarchical tab structures (tabs containing tabs)
-✅ **User needs visual state management** - Binding tab properties to view models for responsive designs
-✅ **User implements settings/preferences UI** - Using tabs to organize configuration sections
-✅ **User builds multi-step forms or wizards** - Using tabs to organize workflow steps
-✅ **User needs data dashboard layouts** - Organizing multiple data views in tab panels
+- **User wants to create tabbed interfaces** - Implementing multi-section layouts where only one tab is visible at a time
+- **User needs tab customization** - Styling tabs with images, icons, text colors, fonts, and custom header content
+- **User implements selection and navigation** - Handling tab selection events, programmatic tab switching, and event-driven workflows
+- **User implements gestures** - Adding swipe gestures to switch between tabs on mobile devices
+- **User needs nested tabs** - Creating hierarchical tab structures (tabs containing tabs)
+- **User needs visual state management** - Binding tab properties to view models for responsive designs
+- **User implements settings/preferences UI** - Using tabs to organize configuration sections
+- **User builds multi-step forms or wizards** - Using tabs to organize workflow steps
+- **User needs data dashboard layouts** - Organizing multiple data views in tab panels
 
 ---
+
+## Component Overview
+
+The **SfTabView** is Syncfusion's advanced tabbed navigation component for .NET MAUI applications. It provides a simple and intuitive interface for tab navigation in both mobile and desktop applications, allowing users to explore and switch between different tabs efficiently.
 
 ## Documentation and Navigation Guide
 

@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-otp-input
-description: Implement OTP Input controls in .NET MAUI applications for authentication flows. Covers input types (Number, Text, Password), styling modes (Outlined, Filled, Underlined), event handling, value binding, validation patterns, and accessibility. Use this skill when building SMS/email OTP verification, multi-step authentication, or secure login forms.
+description: Implement Syncfusion® .NET MAUI OTP Input controls for authentication flows. Covers input types (Number, Text, Password), styling modes (Outlined, Filled, Underlined), event handling, value binding, validation patterns, and accessibility. Use this skill when building SMS/email OTP verification, multi-step authentication, or secure login forms.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

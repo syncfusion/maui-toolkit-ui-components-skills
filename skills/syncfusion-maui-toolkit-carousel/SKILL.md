@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-carousel
-description: Implements Syncfusion .NET MAUI Carousel (SfCarousel) for navigating through image data or content collections. Use when implementing carousel controls, populating carousel items, or configuring view modes (linear/default). Covers animations, load more functionality, UI virtualization, transformations, and swipe events.
+description: Implements Syncfusion® .NET MAUI Carousel (SfCarousel) for navigating through image data or content collections. Use when implementing carousel controls, populating carousel items, or configuring view modes (linear/default). Covers animations, load more functionality, UI virtualization, transformations, and swipe events.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

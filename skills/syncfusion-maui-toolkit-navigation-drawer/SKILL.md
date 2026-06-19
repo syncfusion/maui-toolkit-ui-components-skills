@@ -1,6 +1,6 @@
 ---
 name: syncfusion-maui-toolkit-navigation-drawer
-description: Implement the Syncfusion .NET MAUI Navigation Drawer (SfNavigationDrawer) control for creating navigation panes that slide from screen edges. Covers positioning (left, right, top, bottom), content configuration, animations, events, gestures, and customization. Use this skill whenever implementing drawer navigation in MAUI apps.
+description: Implement the Syncfusion® .NET MAUI Navigation Drawer (SfNavigationDrawer) control for creating navigation panes that slide from screen edges. Covers positioning (left, right, top, bottom), content configuration, animations, events, gestures, and customization. Use this skill whenever implementing drawer navigation in MAUI apps.
 metadata:
   author: "Syncfusion Inc"
   version: "1.0.0"

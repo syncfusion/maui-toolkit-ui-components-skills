@@ -1,7 +1,7 @@
 # Introduction to Syncfusion® .NET MAUI Toolkit
 
 ## Table of Contents
-- [What is Syncfusion® . NET MAUI Toolkit](#what-is-syncfusion-net-maui-toolkit)
+- [What is Syncfusion® .NET MAUI Toolkit](#what-is-syncfusion-net-maui-toolkit)
 - [Cross-Platform Capabilities](#cross-platform-capabilities)
 - [Component Ecosystem Overview](#component-ecosystem-overview)
 - [Supported Platforms](#supported-platforms)
@@ -312,4 +312,7 @@ Syncfusion® .NET MAUI Toolkit components support:
 ✅ Apply theme (MaterialLight/MaterialDark)  
 ✅ Start building with Syncfusion® components!
 
-For detailed installation instructions, read the installation-nuget.md or installation-installers.md reference files.
+For detailed installation instructions, see the following reference files:
+- [dotnet-cli-installation.md](dotnet-cli-installation.md) – Install via .NET CLI
+- [nuget-package-manager-ui.md](nuget-package-manager-ui.md) – Install via Visual Studio NuGet Package Manager UI
+- [package-manager-console.md](package-manager-console.md) – Install via Package Manager Console
