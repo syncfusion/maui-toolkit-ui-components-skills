@@ -8,18 +8,6 @@ metadata:
 
 # Syncfusion® .NET MAUI TabView Implementation Guide
 
-### Key Capabilities
-
-- **Nested Tabs:** Support for hierarchical tab structures with nested TabView instances
-- **Header Flexibility:** Fixed and scrollable headers with image, text, and custom content support
-- **Tab Customization:** Extensive appearance options including colors, fonts, spacing, and positioning
-- **Gesture Support:** Built-in swiping gestures for seamless tab switching
-- **Event System:** Comprehensive event handling for tab selection and interactions
-- **State Management:** Visual state manager support for responsive UI patterns
-- **Animation Control:** Smooth content transitions with customizable animation duration and easing
-
----
-
 ## When to Use This Skill
 
 Use this skill when:
@@ -39,6 +27,16 @@ Use this skill when:
 ## Component Overview
 
 The **SfTabView** is Syncfusion's advanced tabbed navigation component for .NET MAUI applications. It provides a simple and intuitive interface for tab navigation in both mobile and desktop applications, allowing users to explore and switch between different tabs efficiently.
+
+## Key Capabilities
+
+- **Nested Tabs:** Support for hierarchical tab structures with nested TabView instances
+- **Header Flexibility:** Fixed and scrollable headers with image, text, and custom content support
+- **Tab Customization:** Extensive appearance options including colors, fonts, spacing, and positioning
+- **Gesture Support:** Built-in swiping gestures for seamless tab switching
+- **Event System:** Comprehensive event handling for tab selection and interactions
+- **State Management:** Visual state manager support for responsive UI patterns
+- **Animation Control:** Smooth content transitions with customizable animation duration and easing
 
 ## Documentation and Navigation Guide
 

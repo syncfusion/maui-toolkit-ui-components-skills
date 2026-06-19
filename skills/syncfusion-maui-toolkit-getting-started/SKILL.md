@@ -21,15 +21,6 @@ Use this skill when the user asks about:
 
 ## Component Overview
 
-The Syncfusion® .NET MAUI Toolkit is provided as a single unified NuGet package that offers a comprehensive collection of 20+ professional UI components for cross-platform application development.
-
-- **NuGet Package:** `Syncfusion.Maui.Toolkit`
-- **Namespace:** `Syncfusion.Maui.Toolkit`
-- **Key Components:** 35+ controls including data visualization (charts), calendars, editors, buttons, navigation, and more
-- **Supported Platforms:** Android (API 21+), iOS (12.2+), macOS (12+), Windows (10/11)
-- **.NET Support:** .NET 9.0, .NET 10.0
-- **Development Tools:** Visual Studio 2022, Visual Studio Code
-
 Syncfusion® .NET MAUI Toolkit provides a comprehensive collection of professional UI components for building modern, cross-platform mobile and desktop applications. This skill guides you through getting started with Syncfusion® .NET MAUI Toolkit, from installation and setup to understanding the platform capabilities and component ecosystem.
 
 ## What is Syncfusion® .NET MAUI Toolkit?
