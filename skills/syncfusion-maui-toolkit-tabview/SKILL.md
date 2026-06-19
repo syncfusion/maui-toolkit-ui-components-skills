@@ -28,7 +28,7 @@ Use this skill when:
 
 The **SfTabView** is Syncfusion's advanced tabbed navigation component for .NET MAUI applications. It provides a simple and intuitive interface for tab navigation in both mobile and desktop applications, allowing users to explore and switch between different tabs efficiently.
 
-## Key Capabilities
+### Key Capabilities
 
 - **Nested Tabs:** Support for hierarchical tab structures with nested TabView instances
 - **Header Flexibility:** Fixed and scrollable headers with image, text, and custom content support
