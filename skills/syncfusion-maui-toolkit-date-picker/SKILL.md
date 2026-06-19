@@ -6,9 +6,9 @@ metadata:
   version: "1.0.0"
 ---
 
-# Implementing Syncfusion .NET MAUI DatePicker (SfDatePicker)
+# Implementing Syncfusion® .NET MAUI DatePicker (SfDatePicker)
 
-Syncfusion .NET MAUI DatePicker (SfDatePicker) control allows you to select dates with a visually rich, customizable picker interface. The control supports dialog and drop-down modes, extensive customization options, date restrictions, formatting, localization, and accessibility features.
+Syncfusion® .NET MAUI DatePicker (SfDatePicker) control allows you to select dates with a visually rich, customizable picker interface. The control supports dialog and drop-down modes, extensive customization options, date restrictions, formatting, localization, and accessibility features.
 
 ## When to Use This Skill
 

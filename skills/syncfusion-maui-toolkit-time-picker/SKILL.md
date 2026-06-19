@@ -6,9 +6,9 @@ metadata:
   version: "1.0.0"
 ---
 
-# Implementing Syncfusion .NET MAUI TimePicker
+# Implementing Syncfusion® .NET MAUI TimePicker
 
-The Syncfusion .NET MAUI TimePicker (SfTimePicker) is a powerful control that allows users to select time values through an intuitive scrollable interface. It supports multiple time formats, customizable intervals, dialog modes, time restrictions, and extensive styling options.
+The Syncfusion® .NET MAUI TimePicker (SfTimePicker) is a powerful control that allows users to select time values through an intuitive scrollable interface. It supports multiple time formats, customizable intervals, dialog modes, time restrictions, and extensive styling options.
 
 ## When to Use This Skill
 

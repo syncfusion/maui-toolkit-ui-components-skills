@@ -6,9 +6,9 @@ metadata:
   version: "1.0.0"
 ---
 
-# Implementing .NET MAUI Calendar (SfCalendar)
+# Implementing Syncfusion® .NET MAUI Calendar
 
-A comprehensive skill for implementing and customizing the Syncfusion .NET MAUI Calendar control. The SfCalendar provides powerful date selection capabilities with multiple view modes, extensive customization options, and flexible date restrictions.
+A comprehensive skill for implementing and customizing the Syncfusion® .NET MAUI Calendar(SfCalendar) control. The SfCalendar provides powerful date selection capabilities with multiple view modes, extensive customization options, and flexible date restrictions.
 
 ## When to Use This Skill
 
