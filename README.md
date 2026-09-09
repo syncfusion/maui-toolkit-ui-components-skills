@@ -158,6 +158,7 @@ skills/
 - [Expander](skills/syncfusion-maui-toolkit-expander/SKILL.md)
 - [Popup](skills/syncfusion-maui-toolkit-popup/SKILL.md)
 - [Text Input Layout](skills/syncfusion-maui-toolkit-text-input-layout/SKILL.md)
+- [Grid Splitter](skills/syncfusion-maui-toolkit-grid-splitter/SKILL.md)
 
 ### Buttons
 
